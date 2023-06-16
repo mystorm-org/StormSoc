@@ -1,3 +1,4 @@
 #StormSoc
 
-Amaranth based SOC
+Amaranth based SOC,
+initially using minerva
