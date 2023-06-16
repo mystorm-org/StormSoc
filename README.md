@@ -1,1 +1,3 @@
 #StormSoc
+
+Amaranth based SOC
